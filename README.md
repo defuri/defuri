@@ -4,7 +4,7 @@
 # 🌱 Defuri
 
 <p align="center">
-  <img height="400" src="https://github.com/user-attachments/assets/5e75f367-4e43-4a97-9c68-78e866797d49" alt="Deskripsi Gambar">
+  <img height="300" src="https://github.com/user-attachments/assets/5e75f367-4e43-4a97-9c68-78e866797d49" alt="Deskripsi Gambar">
 </p>
 
 ---
