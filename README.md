@@ -73,7 +73,7 @@ Feel free to check out my projects and connect with me!
 </picture>
 </p>
 
-## 🔍 Visitor
+## 🔍 Visitor Counter
 <p align="center">
   <img height="200" align="center" src="https://count.getloli.com/@defuri?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
