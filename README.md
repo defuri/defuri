@@ -10,7 +10,7 @@ I'm a student at SMK TI Pembangunan Cimahi, passionate about software developmen
 🛠️ I love building applications that solve real-world problems. Some of my projects include:
 
 - Web-based POS (Point of Sale) application – Built with Bootstrap and Laravel Livewire.
-- Warehouse management application – Developed during my time at PT Okir.
+- Warehouse management application – Developed using Laravel and Tailwind CSS during my time at PT Okir.
 - Desktop POS application – Created using C# Windows Forms.
 🚀 I'm constantly learning and exploring new technologies to expand my skill set.
 
