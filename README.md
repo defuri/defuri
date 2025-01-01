@@ -1,19 +1,22 @@
 <!--
 **defuri/defuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e75f367-4e43-4a97-9c68-78e866797d49" alt="Deskripsi Gambar">
+</p>
 
-![Sauce? New Game](https://github.com/user-attachments/assets/5e75f367-4e43-4a97-9c68-78e866797d49)
 
 # 🌱 Defuri
-**`Student`**
+<img align="right" src="https://github.com/user-attachments/assets/55b78987-023e-4406-815a-1e636a4a72b9" />
 
-I'm a student at SMK TI Pembangunan Cimahi, passionate about software development and problem-solving through code.
+I'm **`a Student`** at SMK TI Pembangunan Cimahi, passionate about software development and problem-solving through code.
 
 🛠️ I love building applications that solve real-world problems. Some of my projects include:
-
+  
 - Web-based POS (Point of Sale) application – Built with Bootstrap and Laravel Livewire.
 - Warehouse management application – Developed using Laravel and Tailwind CSS during my time at PT Okir.
 - Desktop POS application – Created using C# Windows Forms.
+
 🚀 I'm constantly learning and exploring new technologies to expand my skill set.
 
 Feel free to check out my projects and connect with me!
