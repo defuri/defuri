@@ -5,7 +5,16 @@
 # 🌱 Defuri
 **`Student`**
 
-\
+I'm a student at SMK TI Pembangunan Cimahi, passionate about software development and problem-solving through code.
+
+🛠️ I love building applications that solve real-world problems. Some of my projects include:
+
+- Web-based POS (Point of Sale) application – Built with Bootstrap and Laravel Livewire.
+- Warehouse management application – Developed during my time at PT Okir.
+- Desktop POS application – Created using C# Windows Forms.
+🚀 I'm constantly learning and exploring new technologies to expand my skill set.
+
+Feel free to check out my projects and connect with me!
 
 ### 🧰 Languages and Tools
 
