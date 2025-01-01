@@ -25,6 +25,7 @@ I'm **`a Student`** at SMK TI Pembangunan Cimahi, passionate about software deve
 
 Feel free to check out my projects and connect with me!
 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -44,7 +45,6 @@ Feel free to check out my projects and connect with me!
 <br />
 <br />
 
-#
 ### 📈 Stats
 
 <div align="left">
@@ -59,7 +59,6 @@ Feel free to check out my projects and connect with me!
 
 ###
 
----
 ### 🐍 Be Careful! It Can Bite!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defuri/defuri/output/github-snake-dark.svg" />
