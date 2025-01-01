@@ -2,6 +2,8 @@
 **defuri/defuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Sauce? New Game](https://github.com/user-attachments/assets/5e75f367-4e43-4a97-9c68-78e866797d49)
+
 # 🌱 Defuri
 **`Student`**
 
