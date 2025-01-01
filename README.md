@@ -1,7 +1,6 @@
 <!--
 **defuri/defuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 🌱 Defuri
 
 <p align="center">
   <img height="300" src="https://github.com/user-attachments/assets/5e75f367-4e43-4a97-9c68-78e866797d49" alt="Deskripsi Gambar">
@@ -9,6 +8,8 @@
 
 ---
 <br />
+
+# 🌱 Defuri
 
 <img align="right" src="https://github.com/user-attachments/assets/55b78987-023e-4406-815a-1e636a4a72b9" />
 
