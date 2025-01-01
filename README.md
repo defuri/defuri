@@ -48,9 +48,14 @@ Feel free to check out my projects and connect with me!
 
 ### 📈 Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=defuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=defuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=defuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" />
+  <img alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=defuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" />
+</picture>
+
 
 ###
 
