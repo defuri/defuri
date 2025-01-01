@@ -26,7 +26,7 @@ I'm **`a Student`** at SMK TI Pembangunan Cimahi, passionate about software deve
 Feel free to check out my projects and connect with me!
 
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -45,7 +45,7 @@ Feel free to check out my projects and connect with me!
 <br />
 <br />
 
-### 📈 Stats
+## 📈 Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -64,9 +64,17 @@ Feel free to check out my projects and connect with me!
 
 ###
 
-### 🐍 Be Careful! It Can Bite!
-<picture>
+## 🐍 Be Careful! It Can Bite!
+<p align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defuri/defuri/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/defuri/defuri/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/defuri/defuri/output/github-snake.svg" />
 </picture>
+</p>
+
+## 🔍 Visitor
+<p align="center">
+  <img height="200" align="center" src="https://count.getloli.com/@defuri?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
+
