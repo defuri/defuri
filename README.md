@@ -1,13 +1,6 @@
 <!--
 **defuri/defuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<p align="center">
-  <img height="400" src="https://github.com/user-attachments/assets/5e75f367-4e43-4a97-9c68-78e866797d49" alt="Deskripsi Gambar">
-</p>
-
-<br />
-
 # 🌱 Defuri
 
 <img align="right" src="https://github.com/user-attachments/assets/55b78987-023e-4406-815a-1e636a4a72b9" />
@@ -75,6 +68,6 @@ Feel free to check out my projects and connect with me!
 
 ## 🔍 Visitor Counter
 <p align="center">
-  <img height="200" align="center" src="https://count.getloli.com/@defuri?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+  <img height="150" align="center" src="https://count.getloli.com/@defuri?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
